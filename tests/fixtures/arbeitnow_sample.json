@@ -1,0 +1,29 @@
+{
+  "data": [
+    {
+      "slug": "data-analyst-berlin",
+      "company_name": "Berlin Data GmbH",
+      "title": "Data Analyst (m/w/d)",
+      "description": "<p>Excel, SQL and 2 years. Bachelor required.</p>",
+      "remote": true,
+      "url": "https://www.arbeitnow.com/jobs/example-data-analyst",
+      "tags": ["IT"],
+      "job_types": ["full-time"],
+      "location": "Berlin",
+      "created_at": 1700000000
+    },
+    {
+      "slug": "chef-munich",
+      "company_name": "Kitchen",
+      "title": "Chef",
+      "description": "<p>Cooking</p>",
+      "url": "https://www.arbeitnow.com/jobs/example-chef",
+      "tags": ["Hospitality"],
+      "job_types": [],
+      "location": "Munich",
+      "created_at": 1700000001
+    }
+  ],
+  "links": {"next": null},
+  "meta": {"current_page": 1}
+}
