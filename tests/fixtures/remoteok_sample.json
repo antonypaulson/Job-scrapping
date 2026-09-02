@@ -1,0 +1,26 @@
+[
+  {
+    "last_updated": 1700000000,
+    "legal": "API Terms of Service: Please link back to Remote OK."
+  },
+  {
+    "position": "Senior Data Analyst",
+    "company": "Example Analytics",
+    "location": "Remote",
+    "date": "2026-01-15T12:00:00+00:00",
+    "url": "https://remoteok.com/remote-jobs/example-data-analyst",
+    "tags": ["data", "sql", "python"],
+    "salary_min": 90000,
+    "salary_max": 120000,
+    "description": "<p>We need SQL, Python, and 3 years of experience. Bachelor degree preferred.</p>"
+  },
+  {
+    "position": "Frontend Engineer",
+    "company": "Other Co",
+    "location": "Remote",
+    "date": "2026-01-14T12:00:00+00:00",
+    "url": "https://remoteok.com/remote-jobs/example-frontend",
+    "tags": ["javascript"],
+    "description": "<p>React only</p>"
+  }
+]

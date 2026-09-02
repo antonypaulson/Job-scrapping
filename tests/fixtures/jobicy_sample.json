@@ -1,0 +1,17 @@
+{
+  "apiVersion": "2",
+  "jobCount": 1,
+  "jobs": [
+    {
+      "id": 1,
+      "url": "https://jobicy.com/jobs/example-data-scientist",
+      "jobTitle": "Data Scientist",
+      "companyName": "Open Data Lab",
+      "jobIndustry": ["Data Science"],
+      "jobGeo": "USA",
+      "jobExcerpt": "Python and machine learning",
+      "jobDescription": "<p>Python, SQL, Tableau. 5 years experience. Master preferred.</p>",
+      "pubDate": "2026-01-10 00:00:00"
+    }
+  ]
+}
